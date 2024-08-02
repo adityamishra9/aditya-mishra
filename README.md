@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamishra9&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra9" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamishra9" alt="adityamishra9" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **react frontend js**
